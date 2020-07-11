@@ -7,4 +7,4 @@
 - 🔭 I’m currently working on [Flourish](https://flourish.studio/)
 - 🌱 I’m currently learning D3.js for data visualisation
 - 👯 I’m looking to collaborate on tiny house side projects
-- 💬 Ask me about anything! 
+- 💬 Ask me about anything!
